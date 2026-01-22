@@ -23,8 +23,8 @@ This challenge focuses on practicing HTML structure, CSS styling, and responsive
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: https://github.com/iyanuoluwadiamond/QR-Code-Component
+- Live Site URL: https://iyanuoluwadiamond.github.io/QR-Code-Component/
 
 ## My process
 
